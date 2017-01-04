@@ -1,0 +1,32 @@
+.intro {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+ul.intro {
+  list-style-type: none;
+  border-bottom: solid;
+  border-bottom-color: black;
+  padding-bottom: 10px;
+  margin-right: 40px;
+}
+
+.mission {
+  text-align: center;
+  font-size: 20px;
+}
+
+.workexp {
+  display: inline-block;
+}
+
+.jobtitle {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+ol.skills {
+  font-size: 19px;
+  font-weight: normal;
+}
